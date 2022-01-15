@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JSランナー</string>
+    <string name="strUIsave">保存</string>
+    <string name="strUIload">読込</string>
+    <string name="strUIEDITrun">実行</string>
+    <string name="strUIEDIThelp">ヘルプ</string>
+    <string name="strUIEDIThintsrc">ヒント:ここにJavaScript入りHTMLコードを書き込みます</string>
+    <string name="strUIEDITinternal">内部ストレージ</string>
+    <string name="strUIEDITexternal">外部ストレージ</string>
+    <string name="strUIEDITprevdir">上ディレクトリ</string>
+    <string name="strUIEDITopen">開く</string>
+    <string name="sstrUIEDITcancel">キャンセル</string>
+    <string name="strUIEDITHINTfilename">ここにファイル名を入れる</string>
+    <string name="strUIFILEcurrentpath">現在パス</string>
+    <string name="strUIHELPbacktoeditor">エディタに戻る</string>
+    <string name="strUIicontype">アイコン</string>
+    <string name="strUIRUNbacktoeditor">エディタ</string>
+    <string name="strUIHELPloadsamplehello">サンプル読込 \'hello\'</string>
+    <string name="strUIHELPtutorial">チュートリアル</string>
+    <string name="strUIEDITeditor">スクリプトエディタ</string>
+</resources>

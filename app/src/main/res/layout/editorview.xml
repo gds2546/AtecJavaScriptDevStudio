@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/strUIEDITeditor" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnEDITORrunscript"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/strUIEDITrun" />
+
+        <Button
+            android:id="@+id/btnEDITORsave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/strUIsave" />
+
+        <Button
+            android:id="@+id/btnEDITORload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/strUIload" />
+
+        <Button
+            android:id="@+id/btnEDITORhelp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/strUIEDIThelp" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/etEDITORsrc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:allowUndo="true"
+        android:ems="10"
+        android:gravity="top|left"
+        android:hint="@string/strUIEDIThintsrc"
+        android:inputType="textMultiLine"
+        android:singleLine="false"
+        android:verticalScrollbarPosition="defaultPosition" />
+
+</LinearLayout>

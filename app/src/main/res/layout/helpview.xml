@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnHELPbacktoeditor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/strUIHELPbacktoeditor" />
+    <!-- TODO あとで実装
+        <Button
+            android:id="@+id/btnHELPtorial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/strUIHELPtutorial" />
+    -->
+    <Button
+        android:id="@+id/btnHELPreadme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="README" />
+
+    <Button
+        android:id="@+id/btnHELPloadhellosample"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/strUIHELPloadsamplehello" />
+</LinearLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">JSRunner</string>
+    <string name="strUIsave">SAVE</string>
+    <string name="strUIload">LOAD</string>
+    <string name="strUIEDITrun">RUN</string>
+    <string name="strUIEDIThelp">HELP</string>
+    <string name="strUIEDIThintsrc">Hint : Enter HTML code with JavaScript Here</string>
+    <string name="strNODATA" translatable="false">NODATA</string>
+    <string name="strUIEDITinternal">INTERNAL</string>
+    <string name="strUIEDITopen">OPEN</string>
+    <string name="strUIEDITexternal">EXTERNAL</string>
+    <string name="strUIEDITprevdir">PrevDir</string>
+    <string name="sstrUIEDITcancel">CANCEL</string>
+    <string name="strUIEDITHINTfilename">Enter File Name</string>
+    <string name="strUIFILEcurrentpath">Current path:</string>
+    <string name="strUIHELPbacktoeditor">Back to editor</string>
+    <string name="strUIHELPtutorial">TUTORIAL</string>
+    <string name="strUIHELPloadsamplehello">Load sample \'hello\'</string>
+    <string name="strUIRUNbacktoeditor">EDITOR</string>
+    <string name="strUIicontype">icon type</string>
+    <string name="strUIEDITeditor">Script Editor</string>
+</resources>
