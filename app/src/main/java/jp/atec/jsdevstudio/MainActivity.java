@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     //実行ビューのコントロール群
     private Button btnRUNbackeditor;
     private WebView wvRUNapp;
-    private AdView advRUNads;
+    //private AdView advRUNads;
     //エディタビューのコントロール群
     private Button btnEDITORrun;
     private Button btnEDITORsave;//編集ビュー：セーブボタン
